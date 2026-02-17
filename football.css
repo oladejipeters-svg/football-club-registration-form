@@ -1,101 +1,103 @@
+body {
+  background-color: aquamarine;
+  padding-bottom: 300px;
+}
+
 .manlogo {
-        width: 120px;
-      }
-      .sll {
-        display: flex;
-        flex-direction: row;
-        align-items: center;
-        margin-bottom: 17px;
-        margin-top: 50px;
-        justify-content: center;
-      }
+  width: 120px;
+}
+.sll {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 17px;
+  margin-top: 50px;
+  justify-content: center;
+}
 
-      body {
-        padding-bottom: 300px;
-      }
-      .p008 {
-          border: 2px solid rgb(222, 221, 221);
-          margin-left: 15px;
-          padding: 20px;
-          width: 600px;
-          background-color: rgb(209, 229, 236);
-          box-shadow: 10px 5px 10px rgba(0,0,0,0.4)
-      }
-      h1 {
-        font-size: 28px;
-        position: fixed;
-        top: 0;
-        border: 1px solid gray;
-        display: inline-block;
-        padding: 8px 15px;
-        background-color: rgb(247, 221, 172);
-        box-shadow: 2px 5px 5px;
-        border-radius: 7px;
-      }
-       h2  {
-        color:yellow;
-        background-color: red;
-        padding: 10px 20px;
-        border-radius: 18px;
-      }
-      h2:hover  {
-        color:yellow;
-        background-color: red;
-        padding: 10px 20px;
-        border-radius: 18px;
-        border: 5px solid yellow;
-        transition: 0.17s;
-        box-shadow: 2px 2px 2px rgba(0,0,0,0.4)
-      }
+.p008 {
+  border: 2px solid rgb(222, 221, 221);
+  margin: 0 auto;
+  padding: 20px;
+  width: 600px;
+  background-color: rgb(209, 229, 236);
+  box-shadow: 10px 5px 10px rgba(0, 0, 0, 0.4);
+}
+h1 {
+  font-size: 28px;
+  position: fixed;
+  top: 0;
+  border: 1px solid gray;
+  display: inline-block;
+  padding: 8px 15px;
+  background-color: rgb(247, 221, 172);
+  box-shadow: 2px 5px 5px;
+  border-radius: 7px;
+}
+h2 {
+  color: yellow;
+  background-color: red;
+  padding: 10px 20px;
+  border-radius: 18px;
+}
+h2:hover {
+  color: yellow;
+  background-color: red;
+  padding: 10px 20px;
+  border-radius: 18px;
+  border: 5px solid yellow;
+  transition: 0.17s;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.4);
+}
 
-      .country  {
-        font-size: 15px;
-        margin-left:50px;
-        margin-top: 15px;
-      }
+.country {
+  font-size: 15px;
+  margin-left: 50px;
+  margin-top: 15px;
+}
 
-       .country2  {
-        font-size: 15px;
-        color: black;
-        margin-left:45px;
-        margin-top: 15px;
-      }
+.country2 {
+  font-size: 15px;
+  color: black;
+  margin-left: 45px;
+  margin-top: 15px;
+}
 
-       .country3  {
-        font-size: 15px;
-        margin-left:75px;
-        margin-top: 15px;
-      }
+.country3 {
+  font-size: 15px;
+  margin-left: 75px;
+  margin-top: 15px;
+}
 
-       .country4  {
-        font-size: 15px;
-        margin-left:10px;
-        margin-top: 15px;
-      }
-      
-         .country5  {
-        font-size: 15px;
-        margin-left:55px;
-        margin-top: 15px;
-      }
-    .country6 {
-        margin-top: 40px;
-        padding: 10px 30px;
-        background-color: blue;
-        font-size: 24px;
-        font-weight: 700;
-        border-radius: 10px;
-        color: white;
-    }
+.country4 {
+  font-size: 15px;
+  margin-left: 10px;
+  margin-top: 15px;
+}
 
-      .country6:hover {
-        margin-top: 40px;
-        padding: 10px 30px;
-        background-color: rgb(95, 213, 237);
-        font-size: 24px;
-        font-weight: 700;
-        border-radius: 10px;
-        color: black;
-        box-shadow: 4px 5px 5px;
-        transition: 0.5s;
-    }
+.country5 {
+  font-size: 15px;
+  margin-left: 55px;
+  margin-top: 15px;
+}
+.country6 {
+  margin-top: 40px;
+  padding: 10px 100px;
+  background-color: blue;
+  font-size: 24px;
+  font-weight: 700;
+  border-radius: 10px;
+  color: white;
+}
+
+.country6:hover {
+  margin-top: 40px;
+  padding: 10px 100px;
+  background-color: rgb(95, 213, 237);
+  font-size: 24px;
+  font-weight: 700;
+  border-radius: 10px;
+  color: black;
+  box-shadow: 4px 5px 5px;
+  transition: 0.5s;
+}
